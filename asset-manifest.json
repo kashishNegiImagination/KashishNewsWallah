@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KashishNewsWallah/static/css/main.abd64e84.css",
+    "main.js": "/KashishNewsWallah/static/js/main.f23eedd4.js",
+    "static/js/787.4c026eef.chunk.js": "/KashishNewsWallah/static/js/787.4c026eef.chunk.js",
+    "static/media/Book.gif": "/KashishNewsWallah/static/media/Book.cbf51cb4144f94deae58.gif",
+    "index.html": "/KashishNewsWallah/index.html",
+    "main.abd64e84.css.map": "/KashishNewsWallah/static/css/main.abd64e84.css.map",
+    "main.f23eedd4.js.map": "/KashishNewsWallah/static/js/main.f23eedd4.js.map",
+    "787.4c026eef.chunk.js.map": "/KashishNewsWallah/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f23eedd4.js"
+  ]
+}
